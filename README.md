@@ -1,6 +1,6 @@
 # BDD_Gherkin
 - Para criar um arquivo BDD (Behavior Driven Development) com linguagem Gherkin e Cucumber no Visual Studio Code, você pode seguir os passos abaixo:
-- Instalar o Visual Studio Code;
+- Instalar o Visual Studio Code.
 - Instalar a Extensão Cucumber (Gherkin) Full Support:
 - No Visual Studio Code, vá para a seção de extensões clicando no ícone de quadrado no menu lateral esquerdo ou pressionando Ctrl + Shift + X.
 - Procure por "Cucumber (Gherkin) Full Support" e instale.
