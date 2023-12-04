@@ -1,7 +1,7 @@
 # BDD_Gherkin
 
 <div align="center">
-<img src="https://github.com/kellyabud/BDD_Gherkin/assets/135430840/b7f7131c-fb1a-45bd-a85b-97568d0c51fd" width="500px" />
+<img src="https://github.com/kellyabud/BDD_Gherkin/assets/135430840/b7f7131c-fb1a-45bd-a85b-97568d0c51fd" width="300px" />
 </div>
 
 - Para criar um arquivo BDD (Behavior Driven Development) com linguagem Gherkin e Cucumber no Visual Studio Code, você pode seguir os passos abaixo:
